@@ -28,7 +28,8 @@ Eventually it actually changed but I don't know the reason why my light didn't c
 I think my thought process went well, just follow the step by step assembly and then make both values meet at the same time
 
 but i had a hard time drawing the circit diagram, i currently feel like i got the sense of 
-how to connect it, but still not sure what is the best solution to draw the diagram
+how to connect it, but still not sure what is the best solution to draw the diagram, also i had a hard time
+dealing with my connection, i just have no idea why the monitor says my board is not connected  
 
 
 #Reading 
