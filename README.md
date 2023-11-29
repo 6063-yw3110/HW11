@@ -27,6 +27,9 @@ But the problem I'm having is that I don't know why my lights aren't coming on, 
 Eventually it actually changed but I don't know the reason why my light didn't come on in the first place.
 I think my thought process went well, just follow the step by step assembly and then make both values meet at the same time
 
+but i had a hard time drawing the circit diagram, i currently feel like i got the sense of 
+how to connect it, but still not sure what is the best solution to draw the diagram
+
 
 #Reading 
 I have great feelings about this kind of media distribution. I remember when I was a kid, probably around '05? I got all our local news through the newspaper. I loved reading our local newspaper as a kid. At the time I remember the internet was really underdeveloped, no need to say wifi. Then when I got a little older I would watch TV with my parents and we would have the news on every night at 7pm. Somehow I forget how it all developed, I became dependent on my cell phone, almost all my data was in my cell phone and I learned everything about the news and even about the world through the internet on my cell phone. I was thinking that if this development continues, for example, if our cities become a big database, for example, in China now we can go anywhere by scanning our ID cards. I've never really known how that works. Seeing the article I don't quite understand how data cities are supposed to come about, but I think it's true that they've always existed, it's just that now the data and systems are much better developed and more advanced. I'm thinking about the importance of databases, and how code is an important presence if it's needed to perfectly function with such huge amounts of data as cities.
