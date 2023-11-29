@@ -1,12 +1,10 @@
 
-// 定义引脚
 const int potPin = A0; 
 const int buttonPin = 2; 
 const int lightSensorPin = A1; 
 const int ledPinSuccess = 4; 
 const int ledPinFail = 5; 
 
-// 变量初始化
 int potValue = 0; 
 int buttonState = 0; 
 int lightSensorValue = 0; 
